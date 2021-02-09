@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emon-201394/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/emon-201394/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ek201394" target="blank"><img align="center" src="https://www.iconfinder.com/icons/3225194/app_facebook_logo_media_popular_social_icon" alt="https://www.facebook.com/ek201394" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ek201394" target="blank"><img align="center" src="https://www.iconfinder.com/editor/?id=3225194&hash=5979cc9c22c22fa92d993cecc5595b1a40c65412ea2dbcfdb35c9f4a" alt="https://www.facebook.com/ek201394" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/emon_201394/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/emon_201394/" height="30" width="40" /></a>
 </p>
 
