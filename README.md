@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khan Mohammad Emon</h1>
 
-<img src="https://github.com/EMONEK/EMONEK/blob/main/mOZpPGs.gif" alt="Hello">
+<p align="center"> 
+  <img src="https://github.com/EMONEK/EMONEK/blob/main/mOZpPGs.gif" alt="Hello">
+</p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/emonek/count.svg" />
