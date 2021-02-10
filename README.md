@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khan Mohammad Emon</h1>
 
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="">
 
 <p align="center"> 
   Visitor count<br>
