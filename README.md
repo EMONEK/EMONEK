@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emon-201394/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/emon-201394/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/emon-201394/" target="blank"><img align="center" src="https://github.com/EMONEK/EMONEK/blob/main/linkedin.png" alt="https://www.linkedin.com/in/emon-201394/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ek201394" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/ek201394" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/emon_201394/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/emon_201394/" height="30" width="40" /></a>
 </p>
