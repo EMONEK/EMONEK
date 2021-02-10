@@ -18,6 +18,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emon-201394/" target="blank"><img align="center" src="https://github.com/EMONEK/EMONEK/blob/main/linkedin.png" alt="https://www.linkedin.com/in/emon-201394/" height="40" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ek201394" target="blank"><img align="center" src="https://github.com/EMONEK/EMONEK/blob/main/facebook.png" alt="https://www.facebook.com/ek201394" height="40" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/emon_201394/" target="blank"><img align="center" src="https://github.com/EMONEK/EMONEK/blob/main/instagram%20(1).png" alt="https://www.instagram.com/emon_201394/" height="40" width="40" /></a>
+<a href="https://twitter.com/emon201394/" target="blank"><img align="center" src="https://github.com/EMONEK/EMONEK/blob/main/instagram%20(1).png" alt="https://twitter.com/emon201394/" height="40" width="40" /></a>
+<a href="https://www.behance.net/emonkhan12/" target="blank"><img align="center" src="https://github.com/EMONEK/EMONEK/blob/main/instagram%20(1).png" alt="https://www.behance.net/emonkhan12/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
