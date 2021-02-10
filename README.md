@@ -24,12 +24,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonek&layout=compact&theme=yeblu)](https://github.com/emonek/github-readme-stats)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emonek&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emonek&repo=convoychat" />
-</a>
-
-
