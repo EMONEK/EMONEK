@@ -28,5 +28,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonek&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonek&layout=compact&theme=yeblu)](https://github.com/emonek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonek&layout=compact&theme=yeblu)]
 
