@@ -32,5 +32,5 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonek&langs_count=8)](https://github.com/emonek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonek&langs_count=8&theme=vue-dark)](https://github.com/emonek/github-readme-stats)
 
